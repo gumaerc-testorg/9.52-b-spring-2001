@@ -1,5 +1,12 @@
 ---
 content_type: page
+description: The links provided in this section are online references for additional
+  resources in the field of human ethology. These range from professional societies
+  that maintain links to areas that any reader can explore in this field. Many of
+  the linked sites provide resources for further study, as well as downloadable resources
+  that can be used for classroom teaching.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Related Resources
 uid: 864af834-75b0-5666-6861-86b8d8612a09
 ---
@@ -26,7 +33,7 @@ The [American Psychological Society](http://www.psychologicalscience.org/) promo
 
 The [Organization for Human Brain Mapping](http://www.humanbrainmapping.org/) provides an educational forum for the exchange of up-to-the-minute and ground-breaking research across modalities exploring human brain mapping.
 
-The ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Federation of Behavioral, Psychological and Cognitive Sciences (PDF)](http://cred.columbia.edu/files/2012/01/2009NSTCSBEbriefing.pdf) is a coalition of member organizations, university departments of psychology, schools of education, research centers, regional psychological associations, and science divisions of the American Psychological Association.
+The [Federation of Behavioral, Psychological and Cognitive Sciences (PDF)](http://cred.columbia.edu/files/2012/01/2009NSTCSBEbriefing.pdf) is a coalition of member organizations, university departments of psychology, schools of education, research centers, regional psychological associations, and science divisions of the American Psychological Association.
 
 Linguistics
 -----------

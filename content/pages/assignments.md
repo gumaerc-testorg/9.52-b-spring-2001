@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides information on the course assignments, including
+  presentations and a paper.
+learning_resource_types:
+- Assignments
+ocw_type: CourseSection
 title: Assignments
 uid: a9b769b5-fed5-ac2e-cd93-23bdd383aaeb
 ---
