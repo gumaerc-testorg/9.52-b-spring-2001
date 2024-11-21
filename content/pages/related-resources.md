@@ -5,16 +5,15 @@ description: The links provided in this section are online references for additi
   that maintain links to areas that any reader can explore in this field. Many of
   the linked sites provide resources for further study, as well as downloadable resources
   that can be used for classroom teaching.
+draft: false
 learning_resource_types: []
 ocw_type: CourseSection
 title: Related Resources
 uid: 864af834-75b0-5666-6861-86b8d8612a09
 ---
-
 The links below are online references for additional resources in the field of human ethology. These range from professional societies that maintain links to areas that any reader can explore in this field. Many of the linked sites provide resources for further study, as well as downloadable resources that can be used for classroom teaching.
 
-Evolutionary Psychology
------------------------
+## Evolutionary Psychology
 
 [Evolutionary Psychology: A Primer](http://www.psych.ucsb.edu/research/cep/primer.html). Leda Cosmides & John Tooby, Department of Anthropology, University of California Santa Barbara.
 
@@ -22,8 +21,7 @@ Evolutionary Psychology
 
 [Ethology and Evolution on the Web](https://archive.is/CPmxa). Study of human ethology, evolutionary psychology, and related fields.
 
-Cognition
----------
+## Cognition
 
 The [Cognitive Science Society](http://www.cognitivesciencesociety.org/) has the latest news and information on conferences, funding, and employment, along with a host of related conferences.
 
@@ -35,12 +33,11 @@ The [Organization for Human Brain Mapping](http://www.humanbrainmapping.org/) pr
 
 The [Federation of Behavioral, Psychological and Cognitive Sciences (PDF)](http://cred.columbia.edu/files/2012/01/2009NSTCSBEbriefing.pdf) is a coalition of member organizations, university departments of psychology, schools of education, research centers, regional psychological associations, and science divisions of the American Psychological Association.
 
-Linguistics
------------
+## Linguistics
 
 The [American Association for Applied Linguistics](http://www.aaal.org/) is a professional organization of scholars who are interested in and actively contribute to the multi-disciplinary field of applied linguistics.
 
-The [American Philological Association](http://www.apaclassics.org/) is the principal learned society for classical studies of ancient Greek and Roman languages, literatures, and civilizations.
+The [American Philological Association](https://www.classicalstudies.org/american-philological-association-1) is the principal learned society for classical studies of ancient Greek and Roman languages, literatures, and civilizations.
 
 The [International Speech Communication Association](http://www.isca-speech.org/) covers all the aspects of speech communication (acoustics, phonetics, phonology, linguistics, natural language processing, artificial intelligence, cognitive science, signal processing, pattern recognition, etc.
 
@@ -48,8 +45,7 @@ The [International Speech Communication Association](http://www.isca-speech.org/
 
 The [Philological Society](http://www.philsoc.org.uk/) is devoted to the scholarly study of language and languages.
 
-Neuroscience
-------------
+## Neuroscience
 
 The [Society for Neuroscience](http://www.sfn.org/) addresses the study of brain development, sensation and perception, learning and memory, movement, sleep, stress, aging and neurological and psychiatric disorders. It also includes the molecules, cells and genes responsible for nervous system functioning.
 
