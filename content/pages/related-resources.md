@@ -41,7 +41,7 @@ The [American Philological Association](https://www.classicalstudies.org/america
 
 The [International Speech Communication Association](http://www.isca-speech.org/) covers all the aspects of speech communication (acoustics, phonetics, phonology, linguistics, natural language processing, artificial intelligence, cognitive science, signal processing, pattern recognition, etc.
 
-[Epigraphic Society](http://www.epigraphy.org/) is concerned with the discovery and decipherment of ancient inscriptions.
+[Epigraphic Society](http://www.equinox-project.com/index-l.htm) is concerned with the discovery and decipherment of ancient inscriptions.
 
 The [Philological Society](http://www.philsoc.org.uk/) is devoted to the scholarly study of language and languages.
 
