@@ -10,7 +10,7 @@ ocw_type: CourseSection
 title: Readings
 uid: c0ac18b1-4b9c-50b9-4c6f-b50baacb6ae3
 ---
-The readings listed below are the foundation of this course. Where available, journal article abstracts from [PubMed](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?db=PubMed) (an online database providing access to citations from biomedical literature) are included.
+The readings listed below are the foundation of this course. Where available, journal article abstracts from {{% resource_link "ec7de1b1-1e69-425a-9e96-8d5cb0b01bbb" "PubMed" %}} (an online database providing access to citations from biomedical literature) are included.
 
 ## Textbook
 
@@ -98,33 +98,33 @@ Goodall, J. *The Chimpanzees of Gombe: Patterns of Behavior*. Cambridge, Mass.: 
 
 Wrangham, R. W., W. C. McGrew, F. B. M. de Waal, and P. G. Heltne, eds. *Chimpanzee Cultures*. Harvard Univ. Press, 1994.
 
-Moore, Jim. "[Female Transfer in Primates](http://cogprints.org/176/1/Femdelta.html)." *International Journal of Primatology* 5, 6 (1984): 537-589.
+Moore, Jim. "{{% resource_link "a2b023b0-dbe0-491e-be4b-ecb80675c59f" "Female Transfer in Primates" %}}." *International Journal of Primatology* 5, 6 (1984): 537-589.
 
 Crawford, Charles, and Dennis L. Krebs. *Handbook of Evolutionary Psychology: Ideas, Issues, and Applications*. (BF57 .H36 1998)
 
-Bekoff, Marc. "[Cognitive Ethology and the Explanation of Nonhuman Animal Behavior](http://cogprints.org/157/1/199709002.html)." 1995.
+Bekoff, Marc. "{{% resource_link "55571569-1d44-40b6-8eb9-7f6a37a3246a" "Cognitive Ethology and the Explanation of Nonhuman Animal Behavior" %}}." 1995.
 
-———. "[Cognitive Ethology, Vigilance, Information Gathering, and Representation: Who Might Know What and Why?](https://www.sciencedirect.com/science/article/abs/pii/037663579500050X) " *Behavioral Processes* 35 (1996): 225-237.
+———. "{{% resource_link "95240563-121c-4d0e-ae90-6f04569477ff" "Cognitive Ethology, Vigilance, Information Gathering, and Representation: Who Might Know What and Why?" %}} " *Behavioral Processes* 35 (1996): 225-237.
 
-Bekoff, M., and C. Allen. "[Cognitive Ethology: Slayers, Skeptics, and Proponents](http://cogprints.org/160/)." In *Anthropomorphism, Anecdotes, and Animals: The Emperor's New Clothes?* Albany, New York: SUNY Press, 1997, pp. 313-334.
+Bekoff, M., and C. Allen. "{{% resource_link "be351c0b-f0ad-4fd0-8aeb-0da82a29d95b" "Cognitive Ethology: Slayers, Skeptics, and Proponents" %}}." In *Anthropomorphism, Anecdotes, and Animals: The Emperor's New Clothes?* Albany, New York: SUNY Press, 1997, pp. 313-334.
 
-Bekoff, Marc. "[Cognitive Ethology: The Comparative Study of Animal Minds](http://cogprints.org/159/1/199709004.html)." In *Blackwell Companion to Cognitive Science*. Blackwell Publishers, 1995.
+Bekoff, Marc. "{{% resource_link "d89250b8-97cc-49b0-98ca-bfff10366071" "Cognitive Ethology: The Comparative Study of Animal Minds" %}}." In *Blackwell Companion to Cognitive Science*. Blackwell Publishers, 1995.
 
-Bekoff, Marc. "[Deep Ethology](https://web-archive.southampton.ac.uk/cogprints.org/161/1/199710001.html)." In \_Intimate Relationships, Embracing the Natural World.\_Kosmos, (1997).
+Bekoff, Marc. "{{% resource_link "0f7b971a-e4c9-4dbc-a0c0-36914a2ba76e" "Deep Ethology" %}}." In \_Intimate Relationships, Embracing the Natural World.\_Kosmos, (1997).
 
-Bekoff, Marc, and Colin Allen. "[Intentional Communication and Social Play: How and Why Animals Negotiate and Agree to Play](https://www.researchgate.net/publication/28762252_Intentional_Communication_and_Social_Play_How_and_Why_Animals_Negotiate_and_Agree_to_Play)." In *Animal Play: Evolutionary, Comparative, and Ecological Perspectives*. Cambridge University Press, 1997.
+Bekoff, Marc, and Colin Allen. "{{% resource_link "a933f0d1-088d-467e-acaf-90f898188125" "Intentional Communication and Social Play: How and Why Animals Negotiate and Agree to Play" %}}." In *Animal Play: Evolutionary, Comparative, and Ecological Perspectives*. Cambridge University Press, 1997.
 
-Bekoff, Marc. "[Playing with Play What Can We Learn About Cognition, Negotiation, and Evolution?](http://cogprints.org/162/1/199710002.html)." In *The Evolution of Mind*. New York: Oxford University Press, 1997.
+Bekoff, Marc. "{{% resource_link "c936e856-0a90-4471-a616-5ec71c517a18" "Playing with Play What Can We Learn About Cognition, Negotiation, and Evolution?" %}}." In *The Evolution of Mind*. New York: Oxford University Press, 1997.
 
-Dittrich, Winand. "[Is the Monkeys' World Scientifically Impenetrable?](http://cogprints.org/178/1/BBS1.htm)" \_Behavioral and Brain Sciences\_15 (1992): 152.
+Dittrich, Winand. "{{% resource_link "29af517d-57c1-46ef-a23c-a5e1b965fe35" "Is the Monkeys' World Scientifically Impenetrable?" %}}" \_Behavioral and Brain Sciences\_15 (1992): 152.
 
-Oliphant, Michael. "[Rethinking the Language Bottleneck: Why don't Animals Learn to Communicate?](http://cogprints.org/197/)" 1988.
+Oliphant, Michael. "{{% resource_link "21db06e2-d4ad-4186-82f1-7e48abc80ee8" "Rethinking the Language Bottleneck: Why don't Animals Learn to Communicate?" %}}" 1988.
 
-Suddendorf, Thomas. "[Simpler for Evolution: Secondary Representation in Apes, Children, and Ancestors](http://cogprints.org/2614/)." *Behavioral and Brain Sciences* 21 (1998): 131.
+Suddendorf, Thomas. "{{% resource_link "2f950da3-04f6-4b29-9a15-e4297ca8d1e6" "Simpler for Evolution: Secondary Representation in Apes, Children, and Ancestors" %}}." *Behavioral and Brain Sciences* 21 (1998): 131.
 
-Moore, Jim. "[Sociobiology and Incest Avoidance: A Critical Look at a Critical Review](https://pages.ucsd.edu/~jjmoore/publications/Leavitt.html)." *American Anthropologist* 94 (1992): 929-932
+Moore, Jim. "{{% resource_link "c2a2e969-892f-41eb-9f91-d2ba8e6edd9c" "Sociobiology and Incest Avoidance: A Critical Look at a Critical Review" %}}." *American Anthropologist* 94 (1992): 929-932
 
-Moore, Jim. "[The Evolution of Reciprocal Sharing](http://pages.ucsd.edu/~jjmoore/publications/Recip.html)." *Ethology and Sociobiology* 5 (1984): 5-14.
+Moore, Jim. "{{% resource_link "7c88ddda-e658-4e7b-89db-4e5f17ab9856" "The Evolution of Reciprocal Sharing" %}}." *Ethology and Sociobiology* 5 (1984): 5-14.
 
 ## SPECIAL TOPICS
 
@@ -220,7 +220,7 @@ Spiegel, John Paul. *Messages of the Body*. (BF637.C45 S66)
 
 Key, Mary Ritchie. *Paralanguage and Kinesics: (Nonverbal Communication), with a Bibliography*. (BF637.C45 K48)
 
-Enquist, Magnus, and Stefano Ghirlanda. "[The Secrets of Faces](https://www.nature.com/articles/29636)." In *Nature.* 1998, pp. 394.
+Enquist, Magnus, and Stefano Ghirlanda. "{{% resource_link "0e68c018-4f2e-4a28-adae-2eabe449ccd8" "The Secrets of Faces" %}}." In *Nature.* 1998, pp. 394.
 
 Ruesch, Jurgen. *Nonverbal Communication; Notes on the Visual Perception of Human Relations*. 1909. (400 R84 n)
 
@@ -254,7 +254,7 @@ Scherer, Klaus R. *Facets of Emotion*. 1988. (BF531.F33 1988)
 
 Landau, Terry. *About Faces*. 1989. (GN64.L26.1989)
 
-Matthews, Michael L. "[Discrimination of Identikit Construction of Faces. Evidence for a Dual Processing Strategy](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=643510)." *Perception and Psychophysics* 23, 2 (1978): 153-161. (SJU)
+Matthews, Michael L. "{{% resource_link "94443e5b-3364-45d2-bfef-4e10c644fbf5" "Discrimination of Identikit Construction of Faces. Evidence for a Dual Processing Strategy" %}}." *Perception and Psychophysics* 23, 2 (1978): 153-161. (SJU)
 
 Clark, Margret S. *Emotion.* (BF511 .C53 1992)
 
@@ -294,19 +294,19 @@ Tannen, Deborah. *Gender and Discourse.* New York: Oxford University Press, 1994
 
 ———. *You Just Don't Understand: Women and Men in Conversation*. New York: Morrow, c1990. (CSB & SJU HQ734 .T24 1990)
 
-Moore, Jim. "[Book Review of The Egalitarians -- Human and Chimpanzee\_ by Margaret Power](http://cogprints.org/738/1/Power.html)." *American Journal of Physical Anthropology* 88 (1992): 259-262.
+Moore, Jim. "{{% resource_link "6f9d70ef-27a3-4b22-b0e7-545bd063d1ac" "Book Review of The Egalitarians -- Human and Chimpanzee\_ by Margaret Power" %}}." *American Journal of Physical Anthropology* 88 (1992): 259-262.
 
-Bekoff, Marc. "[Deep Ethology](https://web-archive.southampton.ac.uk/cogprints.org/161/1/199710001.html)." In *Intimate Relationships, Embracing the Natural World.* Kosmos, (1997).
+Bekoff, Marc. "{{% resource_link "0f7b971a-e4c9-4dbc-a0c0-36914a2ba76e" "Deep Ethology" %}}." In *Intimate Relationships, Embracing the Natural World.* Kosmos, (1997).
 
-Cotnoir, Pierre-Alain, Jacques P. Beaugrand, and Claude Goulet. "[DES DIFFÉRENCES LIÉES AU SEXE DANS LES STRATÉGIES DE RÉPARTITION SPATIALE CHEZ DES POISSONS PORTE-ÉPÉE (XIPHOPHORUS HELLERI) MAINTENUS EN CAPTIVITÉ](http://cogprints.org/1962/)." *Naturaliste Canadien (Rev. Écol. Syst.)* 113 (1986): 257-262.
+Cotnoir, Pierre-Alain, Jacques P. Beaugrand, and Claude Goulet. "{{% resource_link "6a5b535f-b90c-4c1d-9d19-b16da275da08" "DES DIFFÉRENCES LIÉES AU SEXE DANS LES STRATÉGIES DE RÉPARTITION SPATIALE CHEZ DES POISSONS PORTE-ÉPÉE (XIPHOPHORUS HELLERI) MAINTENUS EN CAPTIVITÉ" %}}." *Naturaliste Canadien (Rev. Écol. Syst.)* 113 (1986): 257-262.
 
-Muscarella, Frank, Bernhard Fink, Karl Grammer, and Michael Kirk-Smith. "[Homosexual Orientation in Males: Evolutionary and Ethological Aspects](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=11781535)." *Neiroendocrinology Letters* 22,6 (2001): 393-400.
+Muscarella, Frank, Bernhard Fink, Karl Grammer, and Michael Kirk-Smith. "{{% resource_link "f8507d51-9ba9-4c6d-84e3-a377a3775708" "Homosexual Orientation in Males: Evolutionary and Ethological Aspects" %}}." *Neiroendocrinology Letters* 22,6 (2001): 393-400.
 
 > *PubMed abstract:* Evolutionary theory proposes that adaptive traits are reproduced more successfully than maladaptive traits. Accordingly, natural selection should favor heterosexuality as it facilitates reproduction and the propagation of genes. However, the question becomes, what has maintained homosexuality in a small but consistent percentage of the human population? Research into the evolutionary and hormonal factors associated with a homosexual orientation have yielded provocative but inconsistent results. It also suggests that human sexual orientation, and in particular homosexual orientation, is too complex to be described by one simple model or a single research discipline. The current paper treads a new path and emphasizes an integrative approach for the understanding of homosexuality. The authors examine the combined effects of evolutionary factors and neurohormonal processes on the development of a homosexual orientation. It is suggested that research into the topic could benefit from an examination of and change in some of the assumptions upon which much past research has been based.
 
-Beaugrand, Jacques P. [Modèles de dominance et théorie de l'évolution](http://cogprints.org/1961/). In *Darwin Après Darwin, Québec: PUQ*. Edited by Joseph Lévy and Henri É. Cohen. 1983, pp. 110-137. Presses de l'Université du Québec (PUQ).
+Beaugrand, Jacques P. {{% resource_link "efbacec7-dc05-4863-b321-81c9c40ac94a" "Modèles de dominance et théorie de l'évolution" %}}. In *Darwin Après Darwin, Québec: PUQ*. Edited by Joseph Lévy and Henri É. Cohen. 1983, pp. 110-137. Presses de l'Université du Québec (PUQ).
 
-Snyder, Peter J., James D. Weinrich, and Richard C. Pillard. "[Personality and Lipid Level Differences Associated with Homosexual and Bisexual Identity in Men](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=7993184)." *Archives of Sexual Behavior* 23 (1994): 433-451.
+Snyder, Peter J., James D. Weinrich, and Richard C. Pillard. "{{% resource_link "9181c26b-630d-470c-829e-b06a42697010" "Personality and Lipid Level Differences Associated with Homosexual and Bisexual Identity in Men" %}}." *Archives of Sexual Behavior* 23 (1994): 433-451.
 
 > *PubMed abstract:* Self-identified homosexual (n = 30), bisexual (n = 29), and heterosexual (n = 31) men were compared on measures of gender-typical behavior, sex role, ego strength, and lipid levels. Homosexual men differed significantly from the heterosexual men on the gender-typical behavior and feminine sex-role measure (both in adulthood and in childhood), and several trends and significant differences were found on the biochemical measures of lipid levels (especially when 7 obese men were removed from the analyses). As a rule, the bisexual men were different from the heterosexual men on the above measures, but were indistinguishable from the homosexual men. Bisexuals differed from both of the other two groups, however, by scoring lower on the ego strength scale and by reporting themselves to be more often troubled, lonely, and depressed. We caution that the lipid analyses were made on single blood samples and require an extended replication; however, we report the data because of their possible theoretical interest and because they replicate work of 20 years ago.
 
@@ -324,7 +324,7 @@ Short, R. V., and E. Balaban. *The Differences Between the Sexes.* (QP81.5 .D54 
 
 Stoddart, David Michael. *Mammalian Odours and Pheromones.* (QL739.2 .S8)
 
-Kohl, James V., Michaela Atzmueller, Bernhard Fink, and Karl Grammer. "[Human Pheromones: Integrating Neuroendocrinology and Ethology](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=11600881)." *Neuroendocrinology Letters* 22, 5 (2001): 309-321.
+Kohl, James V., Michaela Atzmueller, Bernhard Fink, and Karl Grammer. "{{% resource_link "6e7f2448-9663-4a40-b5a8-ac9e05b57636" "Human Pheromones: Integrating Neuroendocrinology and Ethology" %}}." *Neuroendocrinology Letters* 22, 5 (2001): 309-321.
 
 > *PubMed abstract:* The effect of sensory input on hormones is essential to any explanation of mammalian behavior, including aspects of physical attraction. The chemical signals we send have direct and developmental effects on hormone levels in other people. Since we don t know either if, or how, visual cues might have direct and developmental effects on hormone levels in other people, the biological basis for the development of visually perceived human physical attraction is currently somewhat questionable. In contrast, the biological basis for the development of physical attraction based on chemical signals is well detailed.
 
@@ -394,7 +394,7 @@ Kirkham, Pat. *The Gendered Objects.* (BF692.2 G466 1996)
 
 Chenoune, Farid. *A History of Men's Fashion*. (GT1710 .C44 1993)
 
-"[Manual on school Uniforms](https://files.eric.ed.gov/fulltext/ED387947.pdf)." (GOVERNMENT DOCUMENT ED 1.2:97031091) (Electronic Resource)
+"{{% resource_link "5a0316d9-cc64-4871-9209-905a1388ca49" "Manual on school Uniforms" %}}." (GOVERNMENT DOCUMENT ED 1.2:97031091) (Electronic Resource)
 
 Harvey, John Robert. *Men in Black.* (PR149.C67 H37 1995)
 
@@ -444,7 +444,7 @@ Goodwin, C. "Gestures as a Resource for the Organization of Mutual Orientation."
 
 Kahneman, D. *Attention and Effort*. New Jersey: Prentice-Hall Inc., 1973.
 
-Kleinke, C. "[Gaze and Eye Contact: A Research Review](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=3526377)." *Psychological Bulletin* 100, 1 (1986): 78-100.
+Kleinke, C. "{{% resource_link "8255cbe1-1e4d-49ff-88c0-e5997ccba963" "Gaze and Eye Contact: A Research Review" %}}." *Psychological Bulletin* 100, 1 (1986): 78-100.
 
 Koons, D. B., C. J. Sparrell, and K. R. Thórisson. "Integrating Simultaneous Input from Speech, Gaze and Hand Gestures." Chap. 11 in *Intelligent Multi-Media Interfaces*. Edited by M. T. Maybury. Cambridge, MA: AAAI Press/MIT Press, 1993, pp. 252-276.
 
@@ -491,17 +491,17 @@ B. Blumberg (1994) Action-selection in hamsterdam: Lessons from ethology. In: *F
 
 C. Kline and B. Blumberg (1999) The art and science of synthetic character design. In: *Proc. AISB 1999 Symposium on AI and Creativity in Entertainment and Visual Art, Edinburgh, Scotland.*
 
-Humphrys, Mark. "[Action Selection in a Hypothetical House Robot: Using those RL Numbers](http://cogprints.org/448/)." In *Proceedings Proceedings of the First International ICSC Symposia on Intelligent Industrial Automation (IIA-96) and Soft Computing*. Edited by Peter G. Anderson and Kevin Warwick. Reading, England, 1996, pp. 216-222.
+Humphrys, Mark. "{{% resource_link "bacc33d2-ad81-4fc2-a0ec-6401613c3ae1" "Action Selection in a Hypothetical House Robot: Using those RL Numbers" %}}." In *Proceedings Proceedings of the First International ICSC Symposia on Intelligent Industrial Automation (IIA-96) and Soft Computing*. Edited by Peter G. Anderson and Kevin Warwick. Reading, England, 1996, pp. 216-222.
 
-———. "[Action Selection Methods using Reinforcement Learning](https://pdfs.semanticscholar.org/8e08/e53dedf21b29a98b9a92c8aa3a985aba5480.pdf)." In *Proceedings from Animals to Animats 4: Proceedings of the Fourth International Conference on Simulation of Adaptive Behavior*. Edited by Pattie Maes, Maja Mataric, Jean-Arcady Meyer, Jordan Pollack and Stewart W. Wilson. Massachusetts, USA, 1996, pp. 135-144.
+———. "{{% resource_link "f982cf85-f8c4-48c8-8239-f1facfed940d" "Action Selection Methods using Reinforcement Learning" %}}." In *Proceedings from Animals to Animats 4: Proceedings of the Fourth International Conference on Simulation of Adaptive Behavior*. Edited by Pattie Maes, Maja Mataric, Jean-Arcady Meyer, Jordan Pollack and Stewart W. Wilson. Massachusetts, USA, 1996, pp. 135-144.
 
-Beaugrand, Jacques P. "[Relative Importance of Initial Individual Differences, Victory and Defeat Experiences, and Assessment Accuracy During Hierarchy Formation: A Simulation Study](http://cogprints.org/1965/)." *Behavioural Processes* 41 (1997): 177-192.
+Beaugrand, Jacques P. "{{% resource_link "eb64df47-1bb0-48b5-95c1-49cf3b375e15" "Relative Importance of Initial Individual Differences, Victory and Defeat Experiences, and Assessment Accuracy During Hierarchy Formation: A Simulation Study" %}}." *Behavioural Processes* 41 (1997): 177-192.
 
-Humphrys, Mark. "[Towards Self-organising Action Selection.](http://cogprints.org/450/)" *Technical Report, Technical Report no. 255*, Department of Computer Science, University of Essex, 1995.
+Humphrys, Mark. "{{% resource_link "09cf38d3-036a-43eb-91c2-8aa6dcea28f4" "Towards Self-organising Action Selection." %}}" *Technical Report, Technical Report no. 255*, Department of Computer Science, University of Essex, 1995.
 
-Prem, Erich. "[Epistemic Autonomy in Models of Living Systems](http://cogprints.org/168/)." In *Proceedings Fourth European Conference on Artificial Life.* Edited by Phil Husbands and Inman Harvey. Brighton, Great Britain, 1997, pp. 2-9.
+Prem, Erich. "{{% resource_link "393d5858-5996-446e-836b-61160ebdfe95" "Epistemic Autonomy in Models of Living Systems" %}}." In *Proceedings Fourth European Conference on Artificial Life.* Edited by Phil Husbands and Inman Harvey. Brighton, Great Britain, 1997, pp. 2-9.
 
-Oliphant, M. "[Evolving Cooperation in the Non-iterated Prisoner's Dilemma: The Importance of Spatial Organization](https://www.cs.bham.ac.uk/~xin/papers/EllisYaoCEC07.pdf)." In *Proceedings Proceedings of the Fourth Artificial Life Workshop*. Edited by R. Brooks and Maes. Boston, MA, 1998, pp. 349-352.
+Oliphant, M. "{{% resource_link "d9a49beb-dcc6-4a39-ae92-7d26990dae3b" "Evolving Cooperation in the Non-iterated Prisoner's Dilemma: The Importance of Spatial Organization" %}}." In *Proceedings Proceedings of the Fourth Artificial Life Workshop*. Edited by R. Brooks and Maes. Boston, MA, 1998, pp. 349-352.
 
 ## Beauty/Images of Women
 
@@ -521,7 +521,7 @@ Cunningham, Michael R. "Measuring the Physical in Physical Attractiveness:…" *
 
 Mealey, L. "Bulking Up: The Roles of Gender and Sexual Orientation on Attempts to Manipulate Physical Attractiveness." *Journal of Sex Research* 34, 2 (1997): 223-228. (LJM)
 
-Mealey, L., R. Bridgstock, and G. Townsend. "[Symmetry and Perceived Facial Attractiveness: A Monozygotic Co-twin Comparison](http://www.ncbi.nlm.nih.gov/entrez/query.fcgi?cmd=Retrieve&db=PubMed&dopt=Citation&list_uids=9972560)." \_Journal of Personality and Social Psychology\_76 (1999): 157-165. (SJU)
+Mealey, L., R. Bridgstock, and G. Townsend. "{{% resource_link "715819ea-479e-41fa-b0b0-2070d4cec464" "Symmetry and Perceived Facial Attractiveness: A Monozygotic Co-twin Comparison" %}}." \_Journal of Personality and Social Psychology\_76 (1999): 157-165. (SJU)
 
 > *PubMed abstract:* Symmetry is a major correlate of physical attractiveness across species, including humans. Investigating the nature of this relationship has been difficult, however, for several reasons, including the facts that variance in symmetry is attributable to more than one source and is often correlated with other variables related to attractiveness. This study assessed the role of facial symmetry in relation to perceptions of facial attractiveness. Some of the natural covariates of symmetry were controlled for by comparing the symmetry and attractiveness differentials between monozygotic co-twins, who are genetically, but not developmentally, identical. The more symmetric twin of a pair was consistently rated as more attractive, and the magnitude of the difference between twins in perceived attractiveness was directly related to the magnitude of the difference in symmetry.
 
